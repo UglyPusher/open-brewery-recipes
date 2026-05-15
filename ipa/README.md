@@ -1,8 +1,10 @@
 # Simcoe IPA
 
-*Inspired by BrewDog DIY Dog "Ace of Simcoe". About 75% of the original recipe has been changed — different malt bill, different process, different taste.*
+**Originally inspired by BrewDog DIY Dog "Ace of Simcoe", but heavily reworked — different malt bill, different process, and a drier, cleaner interpretation focused on smooth Simcoe expression.**
 
-Dry, clean American IPA. Single hop — Simcoe. Light body, smooth aroma-to-taste-to-finish transition. No dry hop. No sweetness.
+Dry, clean American IPA built around a single-hop Simcoe profile.  
+Light body, smooth transition from aroma to flavour to finish.  
+No dry hop. Minimal residual sweetness.
 
 **5.1% ABV · ~55 IBU · 14 EBC · serve at 4.5–5°C**
 
@@ -12,9 +14,9 @@ Dry, clean American IPA. Single hop — Simcoe. Light body, smooth aroma-to-tast
 
 | Malt | Amount | % |
 |------|--------|---|
-| IREX Pils | 5.5 kg | 46% |
-| IREX Pale Ale | 5.5 kg | 46% |
-| IREX Ebony | 0.8 kg | 7% |
+| Ireks Pils | 5.5 kg | 46% |
+| Ireks Pale Ale | 5.5 kg | 46% |
+| Ireks Teak | 0.8 kg | 7% |
 
 ---
 
@@ -25,7 +27,7 @@ Dry, clean American IPA. Single hop — Simcoe. Light body, smooth aroma-to-tast
 | Volume | 50 L |
 | Sparge | 12 L |
 | Target pH | 5.3 |
-| Profile | high calcium, low iron |
+| Profile | Balanced sulfate-forward profile with elevated calcium. |
 
 ---
 
@@ -35,7 +37,7 @@ Dry, clean American IPA. Single hop — Simcoe. Light body, smooth aroma-to-tast
 |------|------|------|
 | Saccharification | 64°C | 50 min |
 | Transit | — | ~9 min |
-| Beta rest | 72°C | 20 min |
+| Dextrinization | 72°C | 20 min |
 | Transit | — | ~12 min |
 | Mash out | 78°C | 5 min |
 
@@ -48,12 +50,18 @@ Boil: **90 minutes**
 | Addition | Time | Hop | Amount | AA% |
 |----------|------|-----|--------|-----|
 | Bittering | 90 min | Simcoe | 15 g | 13.8% |
-| Aroma | 45 min | Simcoe | 35 g | 13.8% |
+| Flavour | 45 min | Simcoe | 35 g | 13.8% |
 | Whirlpool | 0 min | Simcoe | 65 g | 13.8% |
 
-Whirlpool: 15 min at 90°C
+Whirlpool stand: 15 min at 90°C
 
 *Hop data: 2026 harvest*
+
+---
+
+## Yeast
+
+SafAle US-05 — 3 × 11 g sachets
 
 ---
 
@@ -61,19 +69,22 @@ Whirlpool: 15 min at 90°C
 
 | Stage | Temp | Duration |
 |-------|------|----------|
-| Pitch | 22°C | — |
+| Pitch | 22°C, then cooled to fermentation range | — |
 | Primary | 18–18.5°C | 3 days |
 | Diacetyl rest | 21°C | 1 day |
-| Conditioning | 20°C | 7 days |
+| Maturation | 20°C | 7 days |
 | Cold crash | +1°C | — |
 | Carbonation | 5°C / 1.4 bar | 14 days |
 | Serving | 4.5–5°C | — |
 
+Warm pitch used to accelerate fermentation start, followed by controlled cooling into primary fermentation range.
 ---
 
 ## Equipment
 
-Bavaria 70L (Speidel 50L equivalent)  
+Bavaria 70L all-in-one brewing system  
+(Process broadly comparable to a Speidel Braumeister workflow)
+
 Cooling: immersion chiller, ~15–18 min
 
 ---
@@ -82,7 +93,7 @@ Cooling: immersion chiller, ~15–18 min
 
 - No dry hop
 - US-05 yeast, 3 × 11g sachets — clean neutral fermentation, lets Simcoe speak
-- Ebony malt for colour only, no roast character in the finish
+- Teak malt used primarily for colour adjustment with minimal roast/caramel presence in the finish.
 
 ---
 
