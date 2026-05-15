@@ -1,132 +1,118 @@
 # Belgian Bruin with Mandarina Accent
 
-55 L • Efficiency 82% • OG 1.055–1.057 • FG 1.011–1.012 • ABV 5.6–5.8% • IBU 14.3–14.5 • EBC ~25
+**Designed as a malt-forward Belgian brown ale with restrained modern hop expression.  
+The goal was to preserve Belgian yeast and dark-fruit character while adding a subtle citrus lift without turning the beer into a Belgian IPA.**
+
+Smooth, dark Belgian-style ale with caramel, dried fruit, soft toast, and warm fermentation character.  
+Mandarina Bavaria used as a restrained late-hop accent rather than a dominant citrus component.
+
+**5.6–5.8% ABV · ~14.5 IBU · ~25 EBC · serve at 6–9°C**
 
 ---
 
-# 🧾 RECIPE
+## Malt Bill — 11.5 kg total
 
-## Grain Bill (11.5 kg)
-- Ireks Pils + Pale Ale — 9.5 kg
-- Ireks Teak — 1.0 kg
-- Ireks Ebony (used similarly to CaraAroma ~300–350 EBC) — 1.0 kg
-
-Color: ~25 EBC  
-Style: Belgian Bruin
+| Malt | Amount | % |
+|------|--------|---|
+| Ireks Pils | 4.75 kg | 41.5% |
+| Ireks Pils | 4.75 kg | 41.5% |
+| Ireks Teak | 1.0 kg | 9% |
+| Ireks Ebony | 1.0 kg | 9% |
 
 ---
 
-## Hops
+## Water
 
-### Bittering
-- Simcoe 13.8% — 10 g @ 90 min
+| Parameter | Value |
+|-----------|-------|
+| Mash water | 47–48 L |
+| Sparge water | 12 L |
+| Into fermenter | 55 L |
+| Mash pH | 5.3–5.4 |
+| Profile | Balanced chloride-forward profile with moderate alkalinity |
 
-### Flavor
-- Mandarina Bavaria 7.2% — 10 g @ 10 min
+---
 
-### Aroma
-- Mandarina Bavaria 7.2% — 30 g @ 3 min
+## Mash
 
-Total bitterness: ~14.3–14.5 IBU
+| Step | Temp | Time |
+|------|------|------|
+| Saccharification | 64°C | 70 min |
+| Transit| — | ~9 min |
+| Dextrinization | 72°C | 20 min |
+| Transit| — | ~12 min |
+| Mash out | 78°C | 5 min |
+
+---
+
+## Boil & Hops
+
+Boil: **90 minutes**
+
+| Addition | Time | Hop | Amount | AA% |
+|----------|------|-----|--------|-----|
+| Bittering | 90 min | Simcoe | 10 g | 13.8% |
+| Flavour | 10 min | Mandarina Bavaria | 10 g | 7.2% |
+| Aroma | 3 min | Mandarina Bavaria | 30 g | 7.2% |
+
+Extended boil intentionally used to enhance toast, caramel, and Maillard-derived dark fruit character.
 
 ---
 
 ## Yeast
-- Fermentis BE-256 (Abbaye) — 11.5 g (1 packet)
+
+Fermentis BE-256 (Abbaye) — 1 × 11.5 g sachet
 
 ---
 
-## Target Parameters
+## Fermentation
+
+| Stage | Temp | Duration |
+|-------|------|----------|
+| Pitch | 19–20°C | — |
+| Primary | 20–22°C | 5–7 days |
+| Finish | 23–24°C | until FG stabilises |
+| Cold conditioning | 0–2°C | 5–7 days |
+
+Target FG: **1.011–1.012**
+
+Optional gelatin fining after fermentation.
+
+---
+
+## Carbonation & Serving
 
 | Parameter | Value |
-|---|---|
-| OG | 1.055–1.057 |
-| FG | 1.011–1.012 |
-| ABV | 5.6–5.8 % |
-| IBU | 14.3–14.5 |
-| EBC | ~25 |
-| BU:GU | ~0.25 |
+|-----------|-------|
+| Carbonation | 2.3–2.6 vol CO₂ |
+| Serving temp | 6–9°C |
+| Glassware | Tulip / goblet / tasting glass |
 
 ---
 
-# ⚙️ PROCESS
+## Notes
 
-## A. Mash
-
-Water:
-- Mash water: 34–36 L
-- Sparge water: 35–40 L
-- Into fermenter: 55 L
-
-Mash schedule:
-1. 64 °C — 70 min
-2. 72 °C — 20 min
-3. 78 °C — 5 min (mash-out)
-
-Mash pH: 5.3–5.4
+- Restrained hop profile by design
+- No dry hop
+- Mandarina Bavaria used to provide a soft citrus lift without dominating Belgian yeast character
+- Extended boil contributes additional caramelisation and dark-fruit depth
+- BE-256 selected for warm ester profile and relatively clean finish
 
 ---
 
-## B. Boil — 90 minutes
+## Flavor Profile
 
-### Hop Schedule
-- Simcoe 10 g @ 90 min
-- Mandarina Bavaria 10 g @ 10 min
-- Mandarina Bavaria 30 g @ 3 min
-
-Evaporation: ~10–12%
-
-Effect of the extended 90-minute boil:
-enhanced toast, caramel, and Maillard character.
-
----
-
-## C. Cooling
-- Cooling time: ~25 minutes
-- Temperature drop: 100 → ~75 °C
-- Additional isomerization from late hops accounted for in IBU calculations.
-
----
-
-## D. Fermentation
-- Pitch yeast at 19–20 °C
-- Primary fermentation: 20–22 °C
-- Finish at: 23–24 °C
-- Duration: 5–7 days
-
-Final gravity should stabilize at 1.011–1.012.
-
----
-
-## E. Cold Conditioning
-- 0–2 °C for 5–7 days
-- Gelatin fining optional
-
----
-
-## F. Carbonation
-- 2.3–2.6 vol CO₂
-
-Ideal serving temperature:
-6–9 °C
-
-Recommended glassware:
-tulip / goblet / tasting glass.
-
----
-
-# 🎨 Flavor Profile
-- caramel and toasted notes
+- caramel and toasted bread crust
 - raisin, prune, and dark dried fruit
-- warm Belgian esters from BE-256
-- soft citrus accent from Mandarina Bavaria
-- gentle bitterness with a smooth slightly sweet body
-- warm, rounded Belgian-style finish
+- warm Belgian fermentation esters
+- soft citrus peel accent
+- low bitterness with rounded malt body
+- smooth warm finish
 
 ---
 
-# 📌 Style Description
+## Style Notes
 
-Belgian Bruin is a smooth, malt-forward dark Belgian ale with caramel richness, dark fruit character, warm fermentation esters, and moderate sweetness.
+Not intended as a strict BJCP clone of Oud Bruin or Belgian Dubbel.
 
-This recipe introduces a restrained citrus accent as a modern interpretation of the style.
+Best described as a modern Belgian-inspired brown ale with restrained citrus expression.
