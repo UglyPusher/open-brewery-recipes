@@ -15,7 +15,7 @@ Mandarina Bavaria used as a restrained late-hop accent rather than a dominant ci
 | Malt | Amount | % |
 |------|--------|---|
 | Ireks Pils | 4.75 kg | 41.5% |
-| Ireks Pils | 4.75 kg | 41.5% |
+| Ireks Pale Ale | 4.75 kg | 41.5% |
 | Ireks Teak | 1.0 kg | 9% |
 | Ireks Ebony | 1.0 kg | 9% |
 
@@ -61,7 +61,7 @@ Extended boil intentionally used to enhance toast, caramel, and Maillard-derived
 
 ## Yeast
 
-Fermentis BE-256 (Abbaye) — 1 × 11.5 g sachet
+Fermentis BE-256 (Abbaye) — 2 × 11.5 g sachet
 
 ---
 

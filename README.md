@@ -11,9 +11,9 @@ If you scale to retail distribution — get in touch, we'll talk.
 ## Beers
 
 - [IPA](./ipa/)
-- [Stout](./stout/) — two variations
+- [Belgian Stout](./belgian-stout/) — two variations
 - [Wheat](./wheat/)
-- [Belgian Red Ale (Brune)](./belgian-brune/)
+- [Belgian Brown Ale](./belgian-brown-ale/)
 
 ---
 

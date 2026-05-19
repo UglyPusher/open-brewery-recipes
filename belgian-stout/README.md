@@ -10,7 +10,7 @@ BE-256 drives the beer: warm esters pull the roast toward dark fruit rather than
 
 ---
 
-## Malt Bill — 10.5 kg total
+## Malt Bill — 11.0 kg total
 
 | Malt | Amount | % |
 | --- | --- | --- |
