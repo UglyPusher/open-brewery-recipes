@@ -111,12 +111,12 @@ T-58's phenolic spice character and the paprika warmth reinforce each other with
 | --- | --- | --- |
 | Keg conditioning | +16°C | 7 days |
 | Cold crash | gradual | — |
-| Carbonation under gas | +4°C | 22–23 days |
+| Carbonation under gas | +4°C | 12–13 days |
 
 Natural carbonation in keg under CO₂ blanket at +4°C. No forced carbonation.
 Equilibrium pressure at serving temperature: **0.8–0.9 bar**.
 
-Full cycle from pitch to serve: **~25 days**.
+Full cycle from pitch to serve: **~25–26 days**.
 
 ---
 

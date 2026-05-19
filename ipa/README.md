@@ -14,9 +14,9 @@ No dry hop. Minimal residual sweetness.
 
 | Malt | Amount | % |
 |------|--------|---|
-| Ireks Pils | 5.5 kg | 46% |
-| Ireks Pale Ale | 5.5 kg | 46% |
-| Ireks Teak | 0.8 kg | 7% |
+| Ireks Pils | 5.5 kg | 46.6% |
+| Ireks Pale Ale | 5.5 kg | 46.6% |
+| Ireks Teak | 0.8 kg | 6.8% |
 
 ---
 
@@ -77,7 +77,11 @@ SafAle US-05 — 3 × 11 g sachets
 | Carbonation | 5°C / 1.4 bar | 14 days |
 | Serving | 4.5–5°C | — |
 
+Target OG: **1.048 (11.8 Brix)**
+Target FG: **1.011 (2.8 Brix refractometer, corrected)**
+
 Warm pitch used to accelerate fermentation start, followed by controlled cooling into primary fermentation range.
+
 ---
 
 ## Equipment
@@ -94,6 +98,24 @@ Cooling: immersion chiller, ~15–18 min
 - No dry hop
 - US-05 yeast, 3 × 11g sachets — clean neutral fermentation, lets Simcoe speak
 - Teak malt used primarily for color adjustment with minimal roast/caramel presence in the finish.
+
+---
+
+## Flavor Profile
+
+- pine, citrus peel, and light tropical fruit from Simcoe
+- dry, clean fermentation profile
+- light malt body with minimal caramel sweetness
+- firm but smooth bitterness
+- crisp finish without dry-hop saturation
+
+---
+
+## Style Notes
+
+A dry, single-hop American IPA built around Simcoe expression rather than maximal hop load.
+
+Not intended as a modern hazy IPA or a dry-hopped West Coast clone — cleaner, leaner, and deliberately restrained.
 
 ---
 
