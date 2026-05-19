@@ -4,7 +4,7 @@ Recipes from a small craft brewery in Loznica, Serbia.
 
 Brew it. Modify it. Experiment. No conditions.
 
-If you scale to retail distribution — get in touch, we'll talk.
+Commercial use discussions welcome.
 
 ---
 
@@ -37,7 +37,7 @@ No trademark. Just beer.
 
 Если планируете выход в розничные торговые сети — свяжитесь, договоримся.
 
-**Сорта:** IPA · Стаут (2 вариации) · Пшеничное · Бельгийский красный эль (Brune)
+**Сорта:** IPA · Бельгийский стаут (2 вариации) · Пшеничное · Бельгийский красный/коричневый эль
 
 ---
 
@@ -49,4 +49,4 @@ Varite. Modifikujte. Eksperimentišite. Bez uslova.
 
 Ako planirate plasman u maloprodajne lance — javite se, dogovorićemo se.
 
-**Sorte:** IPA · Stout (2 varijacije) · Pšenično · Belgijski crveni ale (Brune)
+**Sorte:** IPA · Belgijski Stout (2 varijacije) · Pšenično · Belgijski braon ale
