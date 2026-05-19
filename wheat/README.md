@@ -49,10 +49,10 @@ Boil: **90 minutes**
 
 | Addition | Timing | Hop | Amount | AA% |
 | --- | --- | --- | --- | --- |
-| Flavour/Bittering | 45 min before end | Mandarina Bavaria | 15 g | 7.2% |
+| Flavor/Bittering | 45 min before end | Mandarina Bavaria | 15 g | 7.2% |
 | Whirlpool | 80°C, 15 min | Mandarina Bavaria | 35 g | 7.2% |
 
-Whirlpool held at 80°C — lower than dark ale recipes to preserve aromatic oils and minimise additional isomerisation.
+Whirlpool held at 80°C — lower than dark ale recipes to preserve aromatic oils and minimize additional isomerization.
 
 ---
 

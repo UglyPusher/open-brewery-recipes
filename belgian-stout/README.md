@@ -53,10 +53,10 @@ Boil: **90 minutes**
 
 | Addition | Timing | Hop | Amount | AA% |
 | --- | --- | --- | --- | --- |
-| Flavour/Bittering | 50 min before end | Mandarina Bavaria | 15 g | 7.2% |
+| Flavor/Bittering | 50 min before end | Mandarina Bavaria | 15 g | 7.2% |
 | Whirlpool | 90°C, 15 min | Mandarina Bavaria | 55 g | 7.2% |
 
-Whirlpool held at 90°C for 15 minutes before chilling. Extended boil used to enhance caramelisation and Maillard-derived dark roast depth.
+Whirlpool held at 90°C for 15 minutes before chilling. Extended boil used to enhance caramelization and Maillard-derived dark roast depth.
 
 ---
 

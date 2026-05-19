@@ -52,7 +52,7 @@ Boil: **90 minutes**
 | Addition | Time | Hop | Amount | AA% |
 |----------|------|-----|--------|-----|
 | Bittering | 90 min | Simcoe | 10 g | 13.8% |
-| Flavour | 10 min | Mandarina Bavaria | 10 g | 7.2% |
+| Flavor | 10 min | Mandarina Bavaria | 10 g | 7.2% |
 | Aroma | 3 min | Mandarina Bavaria | 30 g | 7.2% |
 
 Extended boil intentionally used to enhance toast, caramel, and Maillard-derived dark fruit character.
@@ -71,7 +71,7 @@ Fermentis BE-256 (Abbaye) — 2 × 11.5 g sachet
 |-------|------|----------|
 | Pitch | 19–20°C | — |
 | Primary | 20–22°C | 5–7 days |
-| Finish | 23–24°C | until FG stabilises |
+| Finish | 23–24°C | until FG stabilizes |
 | Cold conditioning | 0–2°C | 5–7 days |
 
 Target FG: **1.011–1.012**
@@ -95,7 +95,7 @@ Optional gelatin fining after fermentation.
 - Restrained hop profile by design
 - No dry hop
 - Mandarina Bavaria used to provide a soft citrus lift without dominating Belgian yeast character
-- Extended boil contributes additional caramelisation and dark-fruit depth
+- Extended boil contributes additional caramelization and dark-fruit depth
 - BE-256 selected for warm ester profile and relatively clean finish
 
 ---

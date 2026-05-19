@@ -3,7 +3,7 @@
 **Originally inspired by BrewDog DIY Dog "Ace of Simcoe", but heavily reworked — different malt bill, different process, and a drier, cleaner interpretation focused on smooth Simcoe expression.**
 
 Dry, clean American IPA built around a single-hop Simcoe profile.  
-Light body, smooth transition from aroma to flavour to finish.  
+Light body, smooth transition from aroma to flavor to finish.
 No dry hop. Minimal residual sweetness.
 
 **5.1% ABV · ~55 IBU · 14 EBC · serve at 4.5–5°C**
@@ -50,7 +50,7 @@ Boil: **90 minutes**
 | Addition | Time | Hop | Amount | AA% |
 |----------|------|-----|--------|-----|
 | Bittering | 90 min | Simcoe | 15 g | 13.8% |
-| Flavour | 45 min | Simcoe | 35 g | 13.8% |
+| Flavor | 45 min | Simcoe | 35 g | 13.8% |
 | Whirlpool | 0 min | Simcoe | 65 g | 13.8% |
 
 Whirlpool stand: 15 min at 90°C
@@ -93,7 +93,7 @@ Cooling: immersion chiller, ~15–18 min
 
 - No dry hop
 - US-05 yeast, 3 × 11g sachets — clean neutral fermentation, lets Simcoe speak
-- Teak malt used primarily for colour adjustment with minimal roast/caramel presence in the finish.
+- Teak malt used primarily for color adjustment with minimal roast/caramel presence in the finish.
 
 ---
 
