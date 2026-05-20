@@ -21,6 +21,8 @@ Commercial use discussions welcome.
 
 Changelogs reflect harvest year transitions, not version numbers.  
 Recipes use metric units throughout.  
+Shared process: [PROCESS.md](./PROCESS.md).  
+Shared equipment: [EQUIPMENT.md](./EQUIPMENT.md).  
 No trademark. Just beer.
 
 ---

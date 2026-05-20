@@ -10,6 +10,13 @@ BE-256 drives the beer: warm esters pull the roast toward dark fruit rather than
 
 ---
 
+## Process & Equipment
+
+Shared process: [PROCESS.md](../PROCESS.md)  
+Shared equipment: [EQUIPMENT.md](../EQUIPMENT.md)
+
+---
+
 ## Malt Bill — 11.0 kg total
 
 | Malt | Amount | % |

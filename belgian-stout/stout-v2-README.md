@@ -10,6 +10,13 @@ The result is darker and more restrained than it sounds: warmth rather than heat
 
 ---
 
+## Process & Equipment
+
+Shared process: [PROCESS.md](../PROCESS.md)  
+Shared equipment: [EQUIPMENT.md](../EQUIPMENT.md)
+
+---
+
 ## Malt Bill — 11.0 kg total
 
 *Identical to Variation 1. See [Variation 1](../belgian-stout/README.md) for full malt bill.*

@@ -9,6 +9,13 @@ Hazy, pale, and aromatic. Soft banana and clove from fermentation, mandarin and 
 
 ---
 
+## Process & Equipment
+
+Shared process: [PROCESS.md](../PROCESS.md)  
+Shared equipment: [EQUIPMENT.md](../EQUIPMENT.md)
+
+---
+
 ## Malt Bill — 11 kg total
 
 | Malt | Amount | % |

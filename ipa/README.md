@@ -10,6 +10,13 @@ No dry hop. Minimal residual sweetness.
 
 ---
 
+## Process & Equipment
+
+Shared process: [PROCESS.md](../PROCESS.md)  
+Shared equipment: [EQUIPMENT.md](../EQUIPMENT.md)
+
+---
+
 ## Malt Bill — 11.8 kg total
 
 | Malt | Amount | % |
@@ -81,15 +88,6 @@ Target OG: **1.048 (11.8 Brix)**
 Target FG: **1.011 (2.8 Brix refractometer, corrected)**
 
 Warm pitch used to accelerate fermentation start, followed by controlled cooling into primary fermentation range.
-
----
-
-## Equipment
-
-Bavaria 70L all-in-one brewing system  
-(Process broadly comparable to a Speidel Braumeister workflow)
-
-Cooling: immersion chiller, ~15–18 min
 
 ---
 

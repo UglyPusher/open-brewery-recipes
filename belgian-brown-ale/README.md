@@ -10,6 +10,13 @@ Mandarina Bavaria used as a restrained late-hop accent rather than a dominant ci
 
 ---
 
+## Process & Equipment
+
+Shared process: [PROCESS.md](../PROCESS.md)  
+Shared equipment: [EQUIPMENT.md](../EQUIPMENT.md)
+
+---
+
 ## Malt Bill — 11.5 kg total
 
 | Malt | Amount | % |
@@ -75,8 +82,6 @@ Fermentis BE-256 (Abbaye) — 2 × 11.5 g sachet
 | Cold conditioning | 0–2°C | 5–7 days |
 
 Target FG: **1.011–1.012**
-
-Optional gelatin fining after fermentation.
 
 ---
 
